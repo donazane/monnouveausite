@@ -189,7 +189,7 @@
         "text_color": ""
       }
     },
-    "image_with_text_overlay_6Wp3DP": {
+    "image_with_text_overlay_X87VzA": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
       "settings": {
@@ -211,10 +211,11 @@
         "item_QchxpH": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis_fille_mask_1.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Emma B.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Ce masque visage coréen bio est une belle découverte ! Il laisse la peau hydratée, apaisée et visiblement plus lumineuse après utilisation. Sa texture est agréable, il ne colle pas et procure une vraie sensation de fraîcheur.<br/><br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -223,10 +224,11 @@
         "item_9mxgG8": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis_fille_3.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Sylvie A.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Un super soin à intégrer dans sa routine beauté pour un moment de détente et une peau éclatante. Je recommande sans hésiter !<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -235,10 +237,11 @@
         "item_7Tt4MY": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis_fille_2.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Chloé D.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>J’apprécie particulièrement sa composition naturelle et respectueuse de la peau, parfaite même pour les peaux sensibles.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -371,7 +374,7 @@
     "rich_text_UmdyrG",
     "image_with_text_overlay_7Gg4Hf",
     "rich_text_jVJAcR",
-    "image_with_text_overlay_6Wp3DP",
+    "image_with_text_overlay_X87VzA",
     "multi_column_BRmgHk",
     "featured_product_finq8T"
   ]
