@@ -11,6 +11,67 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
+    "text_with_icons_CTpyYJ": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_qdLyJt": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#cab587",
+            "icon_color": "",
+            "title": "Livraison gratuite",
+            "content": ""
+          }
+        },
+        "item_EnXHhG": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-customer-support",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#cab587",
+            "icon_color": "",
+            "title": "Service client 7J7",
+            "content": "<p>.</p>"
+          }
+        },
+        "item_6MCNan": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#cab587",
+            "icon_color": "",
+            "title": "Paiement sécurisé",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_qdLyJt",
+        "item_EnXHhG",
+        "item_6MCNan"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -57,6 +118,7 @@
     }
   },
   "order": [
+    "text_with_icons_CTpyYJ",
     "footer"
   ]
 }
