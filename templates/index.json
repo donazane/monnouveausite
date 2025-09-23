@@ -9,30 +9,6 @@
  */
 {
   "sections": {
-    "faq": {
-      "type": "faq",
-      "settings": {
-        "full_width": false,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
-        "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "start",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
-      }
-    },
     "image_with_text_overlay_Rb7qT7": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -398,20 +374,11 @@
             "content": "<p>La livraison à domicile est gratuite. Selon le volume de commandes à traiter, le délai de livraison est estimé entre 5 et 8 jours ouvrés.</p>",
             "page": ""
           }
-        },
-        "tab_Fa9ktY": {
-          "type": "tab",
-          "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
         "tab_UyVkwy",
-        "tab_wg7BH4",
-        "tab_Fa9ktY"
+        "tab_wg7BH4"
       ],
       "name": "Tabs",
       "settings": {
@@ -427,10 +394,83 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "faq_3Tjipy": {
+      "type": "faq",
+      "blocks": {
+        "item_rzB4W3": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les bienfaits visibles du masque au collagène ?",
+            "content": "<p><br/>Le masque au collagène hydrate intensément et repulpe la peau dès la première utilisation. Il aide à atténuer l’apparence des ridules, redonne de l’éclat au teint et apporte une sensation de confort immédiat. Utilisé régulièrement, il contribue à améliorer l’élasticité et la fermeté de la peau, pour un visage plus lisse et lumineux.<br/><br/></p>"
+          }
+        },
+        "item_DXefBh": {
+          "type": "item",
+          "settings": {
+            "title": "Le masque au collagène convient-il à tous les types de peau, même sensibles ?",
+            "content": "<p><br/>Oui, le masque au collagène est adapté à la majorité des types de peaux, y compris les peaux sèches ou sensibles. En cas de doute ou de peau très réactive, il est conseillé de faire un test sur une petite zone avant la première application.<br/><br/></p><p></p>"
+          }
+        },
+        "item_cP7tNc": {
+          "type": "item",
+          "settings": {
+            "title": "À quelle fréquence puis-je utiliser un masque au collagène ?",
+            "content": "<p><br/>Il est recommandé de l’utiliser 1 à 2 fois par semaine pour des résultats optimaux. Une utilisation régulière permet de maintenir hydratation, souplesse et éclat de la peau.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_rzB4W3",
+        "item_DXefBh",
+        "item_cP7tNc"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "contact_8ddWk9": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "Notre service clientèle est disponible 7J/7. Temps de réponse moyen / 24h",
+        "title": "Une question ?",
+        "content": "<p>Écrivez nous via le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.</p>",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "#f0c417",
+        "button_text_color": "#000000"
+      }
     }
   },
   "order": [
-    "faq",
     "image_with_text_overlay_Rb7qT7",
     "logo_list_GUQzkm",
     "rich_text_UmdyrG",
@@ -439,6 +479,8 @@
     "image_with_text_overlay_X87VzA",
     "multi_column_BRmgHk",
     "featured_product_UqGgVT",
-    "tabs_Cdg6Xd"
+    "tabs_Cdg6Xd",
+    "faq_3Tjipy",
+    "contact_8ddWk9"
   ]
 }
