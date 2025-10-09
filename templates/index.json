@@ -123,6 +123,42 @@
         "text_color": ""
       }
     },
+    "rich_text_f4hT9d": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MaVwba": {
+          "type": "heading",
+          "settings": {
+            "text": "Avant/Aprés",
+            "heading_tag": "h3",
+            "text_color": "#1a1a1a",
+            "gradient": ""
+          }
+        },
+        "heading_A6Lnp3": {
+          "type": "heading",
+          "settings": {
+            "text": "Avant/Aprés",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_MaVwba",
+        "heading_A6Lnp3"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_with_text_overlay_7Gg4Hf": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -142,20 +178,6 @@
     },
     "rich_text_jVJAcR": {
       "type": "rich-text",
-      "blocks": {
-        "heading_Kra9dV": {
-          "type": "heading",
-          "settings": {
-            "text": "Résultat Avant/Après",
-            "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_Kra9dV"
-      ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -166,21 +188,29 @@
         "text_color": ""
       }
     },
-    "image_with_text_overlay_X87VzA": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
+    "before_after_image_m8Ayak": {
+      "type": "before-after-image",
+      "name": "Before/after image",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Generated_Image_October_08_2025_-_10_44PM.png",
-        "mobile_image": "shopify://shop_images/Generated_Image_October_08_2025_-_10_44PM.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "before_image": "shopify://shop_images/Capture_d_ecran_2025-10-09_a_16.52.50.png",
+        "after_image": "shopify://shop_images/Capture_d_ecran_2025-10-09_a_16.52.59.png",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "",
+        "after_text": "",
+        "drag_initial_position": 46,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
       }
     },
     "multi_column_BRmgHk": {
@@ -503,9 +533,10 @@
     "image_with_text_overlay_Rb7qT7",
     "logo_list_GUQzkm",
     "rich_text_UmdyrG",
+    "rich_text_f4hT9d",
     "image_with_text_overlay_7Gg4Hf",
     "rich_text_jVJAcR",
-    "image_with_text_overlay_X87VzA",
+    "before_after_image_m8Ayak",
     "multi_column_BRmgHk",
     "featured_product_UqGgVT",
     "tabs_Cdg6Xd",
