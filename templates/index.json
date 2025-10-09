@@ -15,8 +15,8 @@
         "heading_yRDFYL": {
           "type": "heading",
           "settings": {
-            "text": "Sublimez & redécouvrez vôtre  éclat  avec Donna zane",
-            "heading_tag": "h2"
+            "text": "Brossage doux, peau éclatante",
+            "heading_tag": "h3"
           }
         }
       },
@@ -29,13 +29,13 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "sm",
-        "image": "shopify://shop_images/heading_donna_zane_3.png",
-        "mobile_image": "shopify://shop_images/image_heading_donnazane_1.png",
+        "image": "shopify://shop_images/Generated_Image_October_08_2025_-_10_37PM.png",
+        "mobile_image": "shopify://shop_images/Generated_Image_October_08_2025_-_10_37PM_d8774428-78f8-4df1-a39e-915c53d6c8ae.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "logo_list_GUQzkm": {
@@ -131,12 +131,13 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/qualite_mask.png",
+        "image": "shopify://shop_images/brosse-de-drainage-lymphatique-4356168_3615fbc4-1aa1-407d-ac8d-1a4e80cc65cf.webp",
+        "mobile_image": "shopify://shop_images/brosse-de-drainage-lymphatique-4356168_3615fbc4-1aa1-407d-ac8d-1a4e80cc65cf.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "rich_text_jVJAcR": {
@@ -173,12 +174,13 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/avant_apres_2.png",
+        "image": "shopify://shop_images/Generated_Image_October_08_2025_-_10_44PM.png",
+        "mobile_image": "shopify://shop_images/Generated_Image_October_08_2025_-_10_44PM.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "multi_column_BRmgHk": {
@@ -187,11 +189,11 @@
         "item_QchxpH": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis_fille_mask_1.png",
+            "video": "shopify://files/videos/c543ce30a0234bd1b23805b4f1d0f036.HD-1080p-7.2Mbps-58862720.mp4",
             "column_size": "3",
             "title": "Emma B.",
             "heading_tag": "h4",
-            "content": "<p>Ce masque visage coréen bio est une belle découverte ! Il laisse la peau hydratée, apaisée et visiblement plus lumineuse après utilisation. Sa texture est agréable, il ne colle pas et procure une vraie sensation de fraîcheur.<br/><br/><br/></p>",
+            "content": "<p><br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -200,11 +202,11 @@
         "item_9mxgG8": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis_fille_3.png",
+            "video": "shopify://files/videos/video brosse test 1 .mp4",
             "column_size": "3",
             "title": "Sylvie A.",
             "heading_tag": "h4",
-            "content": "<p>Un super soin à intégrer dans sa routine beauté pour un moment de détente et une peau éclatante. Je recommande sans hésiter !<br/><br/></p>",
+            "content": "<p><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -213,11 +215,36 @@
         "item_7Tt4MY": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis_fille_2.png",
+            "video": "shopify://files/videos/5a823eafc9bd484cada692b166b7454c.HD-1080p-4.8Mbps-58862752.mp4",
             "column_size": "3",
             "title": "Chloé D.",
             "heading_tag": "h4",
-            "content": "<p>J’apprécie particulièrement sa composition naturelle et respectueuse de la peau, parfaite même pour les peaux sensibles.<br/><br/></p>",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_TUeHwy": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/65946b634284479da2e0a31375f693f7.HD-720p-1.6Mbps-58863384.mp4",
+            "column_size": "3",
+            "title": "Elsa D.",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_NTjTUD": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Elsa D.",
+            "heading_tag": "h4",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -227,7 +254,9 @@
       "block_order": [
         "item_QchxpH",
         "item_9mxgG8",
-        "item_7Tt4MY"
+        "item_7Tt4MY",
+        "item_TUeHwy",
+        "item_NTjTUD"
       ],
       "name": "Multi-column",
       "settings": {
