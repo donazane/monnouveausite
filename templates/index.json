@@ -525,6 +525,48 @@
         "button_background": "#00a341",
         "button_text_color": "#ffffff"
       }
+    },
+    "image_with_text_overlay_bRB47T": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_9xbFxW": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_iU7BCp": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_7gpMjR": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_9xbFxW",
+        "heading_iU7BCp",
+        "richtext_7gpMjR"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Capture_d_ecran_2025-10-09_a_17.58.14.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
     }
   },
   "order": [
@@ -540,6 +582,7 @@
     "multi_column_BRmgHk",
     "featured_product_UqGgVT",
     "faq_3Tjipy",
-    "contact_8ddWk9"
+    "contact_8ddWk9",
+    "image_with_text_overlay_bRB47T"
   ]
 }
