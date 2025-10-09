@@ -16,7 +16,7 @@
           "type": "heading",
           "settings": {
             "text": "Un brossage doux, pour une peau éclatante",
-            "heading_tag": "h3"
+            "heading_tag": "h4"
           }
         }
       },
@@ -316,7 +316,7 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Nos clientes en parlent le mieux",
+        "title": "Nos clientes de la semaine",
         "content": "",
         "background": "",
         "background_gradient": "",
@@ -335,7 +335,7 @@
         "title_eizMky": {
           "type": "title",
           "settings": {
-            "heading_tag": "h2"
+            "heading_tag": "h3"
           }
         },
         "badges_EJK3yP": {
@@ -392,8 +392,8 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#f0c417",
-            "atc_button_text_color": "#000000",
+            "atc_button_background": "#fcc91b",
+            "atc_button_text_color": "#1a1a1a",
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
@@ -436,74 +436,51 @@
         "input_text_color": ""
       }
     },
-    "tabs_Cdg6Xd": {
-      "type": "tabs",
-      "blocks": {
-        "tab_UyVkwy": {
-          "type": "tab",
-          "settings": {
-            "title": "Service client 7J/7",
-            "content": "<p>Notre équipe est à votre disposition pour répondre à vos questions 7J/7. </p><p>Vous pouvez nous contacter par e-mail aux horaires suivantes : du lundi au vendredi de 9h à 12h et de 14h à 18h, et le samedi et dimanche de 10h à 12h. N'hésitez pas à nous joindre.</p>",
-            "page": ""
-          }
-        },
-        "tab_wg7BH4": {
-          "type": "tab",
-          "settings": {
-            "title": "Livraison gratuite à domicile",
-            "content": "<p>La livraison à domicile est gratuite. Selon le volume de commandes à traiter, le délai de livraison est estimé entre 5 et 8 jours ouvrés.</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_UyVkwy",
-        "tab_wg7BH4"
-      ],
-      "name": "Tabs",
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "subheading": "",
-        "title": "",
-        "text_alignment": "center",
-        "first_tab_open": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "faq_3Tjipy": {
       "type": "faq",
       "blocks": {
+        "item_KpHUmw": {
+          "type": "item",
+          "settings": {
+            "title": "Informations sur la livraison ?",
+            "content": "<p>La livraison GRATUITE à domicile <br/><br/>Chaque commande est généralement livrée dans les 7 à 10 jours ouvrables après la production. Notre service de livraison est rapide et fiable, et chaque commande peut être suivie. Préparez-vous à découvrir la qualité à chaque étape.</p>"
+          }
+        },
         "item_rzB4W3": {
           "type": "item",
           "settings": {
-            "title": "Quels sont les bienfaits visibles du masque au collagène ?",
-            "content": "<p><br/>Le masque au collagène hydrate intensément et repulpe la peau dès la première utilisation. Il aide à atténuer l’apparence des ridules, redonne de l’éclat au teint et apporte une sensation de confort immédiat. Utilisé régulièrement, il contribue à améliorer l’élasticité et la fermeté de la peau, pour un visage plus lisse et lumineux.<br/><br/></p>"
+            "title": "Quand vais-je voir les résultats ?",
+            "content": "<p>La plupart des gens remarquent une réduction des poches presque instantanément, avec des contours plus définis et un éclat radieux après une utilisation régulière.</p>"
           }
         },
         "item_DXefBh": {
           "type": "item",
           "settings": {
-            "title": "Le masque au collagène convient-il à tous les types de peau, même sensibles ?",
-            "content": "<p><br/>Oui, le masque au collagène est adapté à la majorité des types de peaux, y compris les peaux sèches ou sensibles. En cas de doute ou de peau très réactive, il est conseillé de faire un test sur une petite zone avant la première application.<br/><br/></p><p></p>"
+            "title": "De quoi sont faites les poils ?",
+            "content": "<p>Les poils sont fabriqués à partir de fibres poly ultra douces qui ont été testées dermatologiquement pour être douces sur tous les types de peau, y compris les peaux sensibles, sans causer d'irritation.</p><p></p>"
           }
         },
         "item_cP7tNc": {
           "type": "item",
           "settings": {
-            "title": "À quelle fréquence puis-je utiliser un masque au collagène ?",
-            "content": "<p><br/>Il est recommandé de l’utiliser 1 à 2 fois par semaine pour des résultats optimaux. Une utilisation régulière permet de maintenir hydratation, souplesse et éclat de la peau.<br/><br/></p>"
+            "title": "Comment nettoyer la brosse ?",
+            "content": "<p>Pour nettoyer votre brosse, lavez délicatement les poils avec un nettoyant doux pour le visage ou un savon doux et de l'eau tiède. Rincez abondamment pour éliminer toute accumulation, puis laissez sécher complètement à l'air libre dans un endroit propre et bien ventilé avant votre prochaine utilisation.</p><p>Conseil : évitez les détergents agressifs ou de tremper le manche en bois, car cela pourrait l'endommager.<br/></p>"
+          }
+        },
+        "item_dFUPNn": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je l'utiliser avec des huiles ou des sérums ?",
+            "content": "<p>Absolument ! Il fonctionne à merveille sur la peau sèche ou associé à votre huile ou sérum visage préféré pour une meilleure glisse.<br/><br/></p>"
           }
         }
       },
       "block_order": [
+        "item_KpHUmw",
         "item_rzB4W3",
         "item_DXefBh",
-        "item_cP7tNc"
+        "item_cP7tNc",
+        "item_dFUPNn"
       ],
       "name": "FAQ",
       "settings": {
@@ -533,7 +510,7 @@
       "name": "Contact form",
       "settings": {
         "full_width": true,
-        "subheading": "Notre service clientèle est disponible 7J/7. Temps de réponse moyen / 24h",
+        "subheading": "Notre support client est 100% francais basée a Grenoble",
         "title": "Une question ?",
         "content": "<p>Écrivez nous via le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.</p>",
         "text_position": "center",
@@ -545,8 +522,8 @@
         "heading_gradient": "",
         "contact_background": "",
         "contact_text_color": "",
-        "button_background": "#f0c417",
-        "button_text_color": "#000000"
+        "button_background": "#00a341",
+        "button_text_color": "#ffffff"
       }
     }
   },
@@ -562,7 +539,6 @@
     "rich_text_RiRVqy",
     "multi_column_BRmgHk",
     "featured_product_UqGgVT",
-    "tabs_Cdg6Xd",
     "faq_3Tjipy",
     "contact_8ddWk9"
   ]

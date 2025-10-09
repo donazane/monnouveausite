@@ -17,22 +17,38 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "✨ Essai 30 jours satisfait ou remboursé !",
+            "url": ""
+          }
+        },
+        "message_4byc6c": {
+          "type": "message",
+          "settings": {
+            "text": "🛡️ Garantie 2 ans — Achetez en toute confiance.",
+            "url": ""
+          }
+        },
+        "message_DQggch": {
+          "type": "message",
+          "settings": {
+            "text": "🚚 Livraison gratuite dès 40€ d’achat !",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_4byc6c",
+        "message_DQggch"
       ],
       "settings": {
         "enable_sticky": false,
         "autoplay": false,
-        "cycle_speed": 6,
-        "text_size": "text-xs",
+        "cycle_speed": 11,
+        "text_size": "text-base",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#1a1a1a",
+        "background": "#a68e5a",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
